@@ -41,7 +41,7 @@ section{
 }
 section > #imagem{
     display: block;
-    background: #5f2c82 url(../pexels-scottwebb-305816\ \(1\).jpg) no-repeat;
+    background: #5f2c82 url(../imagens/imagem.jpg) no-repeat;
     background-position: right center;
     background-size: cover;
     height: 200px;
